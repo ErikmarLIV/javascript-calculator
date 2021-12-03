@@ -1,14 +1,14 @@
 {
-    "name": "calculator",
-    "short_name": "calculator",
+    "name": "CO₂ Impact Calculator",
+    "short_name": "CO₂ Calculator",
     "icons": [
         {
-            "src": "android-chrome-192x192.png",
+            "src": "Logo for c 192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "android-chrome-512x512.png",
+            "src": "Logo for calculator.png",
             "sizes": "512x512",
             "type": "image/png"
         }
