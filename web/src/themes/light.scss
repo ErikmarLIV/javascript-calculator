@@ -1,6 +1,6 @@
-$first: #e0e0e0;
-$second: #fff;
-$base-font-color: rgb(50, 47, 47);
+$first: #1be2e2;
+$second: #ff0000;
+$base-font-color: rgb(40, 210, 80);
 body.light {
     background-color: darken($first, 10%);
     color: $base-font-color;
@@ -12,7 +12,7 @@ body.light {
     }
     #themePicker {
         background-color: $first;
-        box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.7);
+        box-shadow: 0 0 20px 0px rgba(28, 15, 77, 0.7);
     }
     .display {
         background-color: $first;
